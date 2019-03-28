@@ -9,10 +9,11 @@
 
 # Common steps for reproducing the images
     - Open Matlab
-    - Press the command "Simulink"
+    - Press the command "simulink"
     - Open the requested .slx file
-    - In Matlab press the command "Bertool"
+    - In Matlab press the command "bertool"
     - Load the requested .ber file
+    - In the bertool "Monte Carlo" tab browse for .slx file opened above.
     - run from Bertool 
 
 # PSK Phase Shift Keying
@@ -98,4 +99,7 @@ Quadrature amplitude modulation (QAM) is the name of a family of digital modulat
 ![BER performance figure](QAM64/Ber.png)
 
 
-**`Wikipedia was used in the research`**
+# Raised Cosine bonus
+[Bonus graphs](_bonus-Content/README.md)
+
+    **`Wikipedia was used in the research`**

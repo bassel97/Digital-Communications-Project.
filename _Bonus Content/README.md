@@ -14,7 +14,7 @@
 # BPSK Binary Phase Shift Keying
 ## After Modulator
 ![After Modulator](BPSK_RC/AfterModulator.PNG)
-## After Modulator
+## Before Channel
 ![Before Channel](BPSK_RC/BeforeChannel.PNG)
 ## After Reciever
 ![After Reciever](BPSK_RC/AfterReciever.PNG)
@@ -25,7 +25,7 @@
 
 ## After Modulator
 ![After Modulator](QPSK/AfterModulator.PNG)
-## After Modulator
+## Before Channel
 ![Before Channel](QPSK/BeforeChannel.PNG)
 ## After Reciever
 ![After Reciever](QPSK/AfterReciever.PNG)
@@ -34,7 +34,7 @@
 
 ## After Modulator
 ![After Modulator](FSK/AfterModulator.PNG)
-## After Modulator
+## Before Channel
 ![Before Channel](FSK/BeforeChannel.PNG)
 ## After Reciever
 ![After Reciever](FSK/AfterReciever.PNG)
@@ -44,7 +44,7 @@
 
 ## After Modulator
 ![After Modulator](QAM16/AfterModulator.PNG)
-## After Modulator
+## Before Channel
 ![Before Channel](QAM16/BeforeChannel.PNG)
 ## After Reciever
 ![After Reciever](QAM16/AfterReciever.PNG)
@@ -55,7 +55,7 @@
 
 ## After Modulator
 ![After Modulator](QAM64/AfterModulator.PNG)
-## After Modulator
+## Before Channel
 ![Before Channel](QAM64/BeforeChannel.PNG)
 ## After Reciever
 ![After Reciever](QAM64/AfterReciever.PNG)

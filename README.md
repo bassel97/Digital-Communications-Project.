@@ -104,6 +104,6 @@ Quadrature amplitude modulation (QAM) is the name of a family of digital modulat
 
 
 # Raised Cosine bonus
-## **[Bonus graphs](_bonus%20Content)**
+## **[Bonus graphs](_bonus%20Content/)**
 
     **`Wikipedia was used in the research`**

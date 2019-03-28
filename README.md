@@ -23,6 +23,10 @@ Any digital modulation scheme uses a finite number of distinct signals to repres
 
 The demodulator, which is designed specifically for the symbol-set used by the modulator, determines the phase of the received signal and maps it back to the symbol it represents, thus recovering the original data. This requires the receiver to be able to compare the phase of the received signal to a reference signal.
 
+# General scheme
+    just different modulator/demodulator block for each scheme
+![General scheme](GeneralScheme.PNG)
+
 # BPSK Binary Phase Shift Keying
 #### 1 - Brief explanantion
 BPSK is the simplest form of phase shift keying **[PSK](#PSK-:-Phase-Shift-Keying)**. It uses two phases which are separated by 180° and so can also be termed 2-PSK. It does not particularly matter exactly where the constellation points are positioned, and in the figure below they are shown on the real axis, at 0° and 180°. Therefore, it handles the highest noise level or distortion before the demodulator reaches an incorrect decision. It is, however, only able to modulate at 1 bit/symbol and so is unsuitable for high data-rate applications.
@@ -100,6 +104,6 @@ Quadrature amplitude modulation (QAM) is the name of a family of digital modulat
 
 
 # Raised Cosine bonus
-[Bonus graphs](_bonus-Content/README.md)
+[Bonus graphs](_bonus-Content/)
 
     **`Wikipedia was used in the research`**

@@ -8,57 +8,57 @@
 - **[QAM64](#QAM64-Quadrature-amplitude-modulation)**
 
 # General Scheme
-    just different block for each scheme
+    just different modulator block for each scheme
 ![General scheme](RaisedCosine.PNG)
 
 # BPSK Binary Phase Shift Keying
 ## After Modulator
-![After Modulator](BPSK_RC/AfterModulator.png)
+![After Modulator](BPSK_RC/AfterModulator.PNG)
 ## After Modulator
-![Before Channel](BPSK_RC/BeforeChannel.png)
+![Before Channel](BPSK_RC/BeforeChannel.PNG)
 ## After Reciever
-![After Reciever](BPSK_RC/AfterReciever.png)
+![After Reciever](BPSK_RC/AfterReciever.PNG)
 
 
 
 # QPSK Quadrature phase shift keying
 
 ## After Modulator
-![After Modulator](QPSK/AfterModulator.png)
+![After Modulator](QPSK/AfterModulator.PNG)
 ## After Modulator
-![Before Channel](QPSK/BeforeChannel.png)
+![Before Channel](QPSK/BeforeChannel.PNG)
 ## After Reciever
-![After Reciever](QPSK/AfterReciever.png)
+![After Reciever](QPSK/AfterReciever.PNG)
 
 # FSK Frequency shift keying
 
 ## After Modulator
-![After Modulator](FSK/AfterModulator.png)
+![After Modulator](FSK/AfterModulator.PNG)
 ## After Modulator
-![Before Channel](FSK/BeforeChannel.png)
+![Before Channel](FSK/BeforeChannel.PNG)
 ## After Reciever
-![After Reciever](FSK/AfterReciever.png)
+![After Reciever](FSK/AfterReciever.PNG)
 
 
 # QAM16 Quadrature amplitude modulation
 
 ## After Modulator
-![After Modulator](QAM16/AfterModulator.png)
+![After Modulator](QAM16/AfterModulator.PNG)
 ## After Modulator
-![Before Channel](QAM16/BeforeChannel.png)
+![Before Channel](QAM16/BeforeChannel.PNG)
 ## After Reciever
-![After Reciever](QAM16/AfterReciever.png)
+![After Reciever](QAM16/AfterReciever.PNG)
 
 
 
 # QAM64 Quadrature amplitude modulation
 
 ## After Modulator
-![After Modulator](QAM64/AfterModulator.png)
+![After Modulator](QAM64/AfterModulator.PNG)
 ## After Modulator
-![Before Channel](QAM64/BeforeChannel.png)
+![Before Channel](QAM64/BeforeChannel.PNG)
 ## After Reciever
-![After Reciever](QAM64/AfterReciever.png)
+![After Reciever](QAM64/AfterReciever.PNG)
 
 
 #### Refrences:
